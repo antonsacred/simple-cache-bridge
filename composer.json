@@ -1,5 +1,5 @@
 {
-  "name": "sacred/simple-cache-from-cache-item-pool",
+  "name": "sacred/simple-cache-bridge",
   "scripts": {
     "tests": "./vendor/bin/phpunit tests",
     "phpstan": "./vendor/bin/phpstan analyze src tests -l max"
