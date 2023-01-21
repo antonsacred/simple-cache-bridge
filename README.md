@@ -1,4 +1,4 @@
-# Prevent Race Condition
+# Simple cache bridge
 
 [![codecov](https://codecov.io/gh/antonsacred/simple-cache-bridge/branch/main/graph/badge.svg?token=8MBDUQV971)](https://codecov.io/gh/antonsacred/simple-cache-bridge)
 [![Packagist Version](https://img.shields.io/packagist/v/sacred/simple-cache-bridge)](https://packagist.org/packages/sacred/simple-cache-bridge)
