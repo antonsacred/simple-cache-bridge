@@ -17,3 +17,4 @@ $simpleCache = new SimpleCacheFromCacheItemPool($psr6Cache);
 $simpleCache->set('key','some-data');
 $value = $simpleCache->get('key'); // some-data
 ```
+
