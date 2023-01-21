@@ -4,7 +4,7 @@ This package allows you to convert your PSR-6 cache into PSR-16 simple cache.
 
 ### Install
 
-    composer require sacred/simple-cache-from-cache-item-pool
+    composer require sacred/simple-cache-bridge
 
 ### Basic usage
 
